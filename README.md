@@ -3,7 +3,6 @@
 Project of CSE 3200: System Development Laboratory by:
 
 - Ashikur Rahman (Roll: 1707090)
-- Samin Yeasar (Roll: 1507099)
  
 CSE, KUET
 
